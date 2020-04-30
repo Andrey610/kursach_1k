@@ -1,0 +1,165 @@
+C:\Users\Богдан\Desktop\test\test\test\bin\Debug\test.exe.config
+C:\Users\Богдан\Desktop\test\test\test\bin\Debug\test.exe
+C:\Users\Богдан\Desktop\test\test\test\bin\Debug\test.pdb
+C:\Users\Богдан\Desktop\test\test\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\Богдан\Desktop\test\test\test\obj\Debug\test.Form1.resources
+C:\Users\Богдан\Desktop\test\test\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\Богдан\Desktop\test\test\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\Богдан\Desktop\test\test\test\obj\Debug\test.exe
+C:\Users\Богдан\Desktop\test\test\test\obj\Debug\test.pdb
+C:\Users\Андрей Зиновьев\Desktop\kursach\test\test\test\bin\Debug\test.exe.config
+C:\Users\Андрей Зиновьев\Desktop\kursach\test\test\test\bin\Debug\test.exe
+C:\Users\Андрей Зиновьев\Desktop\kursach\test\test\test\bin\Debug\test.pdb
+C:\Users\Андрей Зиновьев\Desktop\kursach\test\test\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\Андрей Зиновьев\Desktop\kursach\test\test\test\obj\Debug\test.Form1.resources
+C:\Users\Андрей Зиновьев\Desktop\kursach\test\test\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\Андрей Зиновьев\Desktop\kursach\test\test\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\Андрей Зиновьев\Desktop\kursach\test\test\test\obj\Debug\test.exe
+C:\Users\Андрей Зиновьев\Desktop\kursach\test\test\test\obj\Debug\test.pdb
+C:\Users\Андрей Зиновьев\Desktop\kursach\test\test\test\bin\Debug\Kursach.mdb
+C:\Users\Богдан\Desktop\курсач 2.0\test\test\test\bin\Debug\Kursach.mdb
+C:\Users\Богдан\Desktop\курсач 2.0\test\test\test\bin\Debug\test.exe.config
+C:\Users\Богдан\Desktop\курсач 2.0\test\test\test\bin\Debug\test.exe
+C:\Users\Богдан\Desktop\курсач 2.0\test\test\test\bin\Debug\test.pdb
+C:\Users\Богдан\Desktop\курсач 2.0\test\test\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\Богдан\Desktop\курсач 2.0\test\test\test\obj\Debug\test.Form1.resources
+C:\Users\Богдан\Desktop\курсач 2.0\test\test\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\Богдан\Desktop\курсач 2.0\test\test\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\Богдан\Desktop\курсач 2.0\test\test\test\obj\Debug\test.exe
+C:\Users\Богдан\Desktop\курсач 2.0\test\test\test\obj\Debug\test.pdb
+C:\Users\Богдан\Desktop\test_3\test\test\bin\Debug\Kursach.mdb
+C:\Users\Богдан\Desktop\test_3\test\test\bin\Debug\test.exe.config
+C:\Users\Богдан\Desktop\test_3\test\test\bin\Debug\test.exe
+C:\Users\Богдан\Desktop\test_3\test\test\bin\Debug\test.pdb
+C:\Users\Богдан\Desktop\test_3\test\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\Богдан\Desktop\test_3\test\test\obj\Debug\test.Form1.resources
+C:\Users\Богдан\Desktop\test_3\test\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\Богдан\Desktop\test_3\test\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\Богдан\Desktop\test_3\test\test\obj\Debug\test.exe
+C:\Users\Богдан\Desktop\test_3\test\test\obj\Debug\test.pdb
+C:\Users\Богдан\Desktop\test_3\test\test\obj\Debug\test.Form2.resources
+C:\Users\Богдан\Desktop\test_3 - копия\test\test\bin\Debug\Kursach.mdb
+C:\Users\Богдан\Desktop\test_3 - копия\test\test\bin\Debug\test.exe.config
+C:\Users\Богдан\Desktop\test_3 - копия\test\test\bin\Debug\test.exe
+C:\Users\Богдан\Desktop\test_3 - копия\test\test\bin\Debug\test.pdb
+C:\Users\Богдан\Desktop\test_3 - копия\test\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\Богдан\Desktop\test_3 - копия\test\test\obj\Debug\test.Form1.resources
+C:\Users\Богдан\Desktop\test_3 - копия\test\test\obj\Debug\test.Form2.resources
+C:\Users\Богдан\Desktop\test_3 - копия\test\test\obj\Debug\test.Form3.resources
+C:\Users\Богдан\Desktop\test_3 - копия\test\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\Богдан\Desktop\test_3 - копия\test\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\Богдан\Desktop\test_3 - копия\test\test\obj\Debug\test.exe
+C:\Users\Богдан\Desktop\test_3 - копия\test\test\obj\Debug\test.pdb
+C:\Users\Богдан\Desktop\test_3.0\test\test\bin\Debug\Kursach.mdb
+C:\Users\Богдан\Desktop\test_3.0\test\test\bin\Debug\test.exe.config
+C:\Users\Богдан\Desktop\test_3.0\test\test\bin\Debug\test.exe
+C:\Users\Богдан\Desktop\test_3.0\test\test\bin\Debug\test.pdb
+C:\Users\Богдан\Desktop\test_3.0\test\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\Богдан\Desktop\test_3.0\test\test\obj\Debug\test.Form1.resources
+C:\Users\Богдан\Desktop\test_3.0\test\test\obj\Debug\test.Form2.resources
+C:\Users\Богдан\Desktop\test_3.0\test\test\obj\Debug\test.Form3.resources
+C:\Users\Богдан\Desktop\test_3.0\test\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\Богдан\Desktop\test_3.0\test\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\Богдан\Desktop\test_3.0\test\test\obj\Debug\test.exe
+C:\Users\Богдан\Desktop\test_3.0\test\test\obj\Debug\test.pdb
+C:\Users\Андрей Зиновьев\Desktop\kursach\test_4.0\test\test\bin\Debug\test.exe.config
+C:\Users\Андрей Зиновьев\Desktop\kursach\test_4.0\test\test\bin\Debug\test.exe
+C:\Users\Андрей Зиновьев\Desktop\kursach\test_4.0\test\test\bin\Debug\test.pdb
+C:\Users\Андрей Зиновьев\Desktop\kursach\test_4.0\test\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\Андрей Зиновьев\Desktop\kursach\test_4.0\test\test\obj\Debug\test.Form1.resources
+C:\Users\Андрей Зиновьев\Desktop\kursach\test_4.0\test\test\obj\Debug\test.Form2.resources
+C:\Users\Андрей Зиновьев\Desktop\kursach\test_4.0\test\test\obj\Debug\test.Form3.resources
+C:\Users\Андрей Зиновьев\Desktop\kursach\test_4.0\test\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\Андрей Зиновьев\Desktop\kursach\test_4.0\test\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\Андрей Зиновьев\Desktop\kursach\test_4.0\test\test\obj\Debug\test.exe
+C:\Users\Андрей Зиновьев\Desktop\kursach\test_4.0\test\test\obj\Debug\test.pdb
+C:\Users\Богдан\Desktop\test_5\test\test\bin\Debug\test.exe.config
+C:\Users\Богдан\Desktop\test_5\test\test\bin\Debug\test.exe
+C:\Users\Богдан\Desktop\test_5\test\test\bin\Debug\test.pdb
+C:\Users\Богдан\Desktop\test_5\test\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\Богдан\Desktop\test_5\test\test\obj\Debug\test.Form1.resources
+C:\Users\Богдан\Desktop\test_5\test\test\obj\Debug\test.Form2.resources
+C:\Users\Богдан\Desktop\test_5\test\test\obj\Debug\test.Form3.resources
+C:\Users\Богдан\Desktop\test_5\test\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\Богдан\Desktop\test_5\test\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\Богдан\Desktop\test_5\test\test\obj\Debug\test.exe
+C:\Users\Богдан\Desktop\test_5\test\test\obj\Debug\test.pdb
+C:\Users\Андрей Зиновьев\Desktop\kursach\test_7\test\test\bin\Debug\test.exe.config
+C:\Users\Андрей Зиновьев\Desktop\kursach\test_7\test\test\bin\Debug\test.exe
+C:\Users\Андрей Зиновьев\Desktop\kursach\test_7\test\test\bin\Debug\test.pdb
+C:\Users\Андрей Зиновьев\Desktop\kursach\test_7\test\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\Андрей Зиновьев\Desktop\kursach\test_7\test\test\obj\Debug\test.Form1.resources
+C:\Users\Андрей Зиновьев\Desktop\kursach\test_7\test\test\obj\Debug\test.Form2.resources
+C:\Users\Андрей Зиновьев\Desktop\kursach\test_7\test\test\obj\Debug\test.Form3.resources
+C:\Users\Андрей Зиновьев\Desktop\kursach\test_7\test\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\Андрей Зиновьев\Desktop\kursach\test_7\test\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\Андрей Зиновьев\Desktop\kursach\test_7\test\test\obj\Debug\test.exe
+C:\Users\Андрей Зиновьев\Desktop\kursach\test_7\test\test\obj\Debug\test.pdb
+C:\Users\Богдан\Desktop\test_7\test\test\bin\Debug\test.exe.config
+C:\Users\Богдан\Desktop\test_7\test\test\bin\Debug\test.exe
+C:\Users\Богдан\Desktop\test_7\test\test\bin\Debug\test.pdb
+C:\Users\Богдан\Desktop\test_7\test\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\Богдан\Desktop\test_7\test\test\obj\Debug\test.Form1.resources
+C:\Users\Богдан\Desktop\test_7\test\test\obj\Debug\test.Form2.resources
+C:\Users\Богдан\Desktop\test_7\test\test\obj\Debug\test.Form3.resources
+C:\Users\Богдан\Desktop\test_7\test\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\Богдан\Desktop\test_7\test\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\Богдан\Desktop\test_7\test\test\obj\Debug\test.exe
+C:\Users\Богдан\Desktop\test_7\test\test\obj\Debug\test.pdb
+C:\Users\Андрей Зиновьев\Desktop\kursach\test_8\test\test\bin\Debug\test.exe.config
+C:\Users\Андрей Зиновьев\Desktop\kursach\test_8\test\test\bin\Debug\test.exe
+C:\Users\Андрей Зиновьев\Desktop\kursach\test_8\test\test\bin\Debug\test.pdb
+C:\Users\Андрей Зиновьев\Desktop\kursach\test_8\test\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\Андрей Зиновьев\Desktop\kursach\test_8\test\test\obj\Debug\test.Form1.resources
+C:\Users\Андрей Зиновьев\Desktop\kursach\test_8\test\test\obj\Debug\test.Form2.resources
+C:\Users\Андрей Зиновьев\Desktop\kursach\test_8\test\test\obj\Debug\test.Form3.resources
+C:\Users\Андрей Зиновьев\Desktop\kursach\test_8\test\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\Андрей Зиновьев\Desktop\kursach\test_8\test\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\Андрей Зиновьев\Desktop\kursach\test_8\test\test\obj\Debug\test.exe
+C:\Users\Андрей Зиновьев\Desktop\kursach\test_8\test\test\obj\Debug\test.pdb
+C:\Users\Богдан\Desktop\test_9\test_8\test\test\bin\Debug\test.exe.config
+C:\Users\Богдан\Desktop\test_9\test_8\test\test\bin\Debug\test.exe
+C:\Users\Богдан\Desktop\test_9\test_8\test\test\bin\Debug\test.pdb
+C:\Users\Богдан\Desktop\test_9\test_8\test\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\Богдан\Desktop\test_9\test_8\test\test\obj\Debug\test.Form1.resources
+C:\Users\Богдан\Desktop\test_9\test_8\test\test\obj\Debug\test.Form2.resources
+C:\Users\Богдан\Desktop\test_9\test_8\test\test\obj\Debug\test.Form3.resources
+C:\Users\Богдан\Desktop\test_9\test_8\test\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\Богдан\Desktop\test_9\test_8\test\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\Богдан\Desktop\test_9\test_8\test\test\obj\Debug\test.exe
+C:\Users\Богдан\Desktop\test_9\test_8\test\test\obj\Debug\test.pdb
+C:\Users\andrey\Desktop\test_9_last_kar\test_8\test\test\bin\Debug\test.exe.config
+C:\Users\andrey\Desktop\test_9_last_kar\test_8\test\test\bin\Debug\test.exe
+C:\Users\andrey\Desktop\test_9_last_kar\test_8\test\test\bin\Debug\test.pdb
+C:\Users\andrey\Desktop\test_9_last_kar\test_8\test\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\andrey\Desktop\test_9_last_kar\test_8\test\test\obj\Debug\test.Form1.resources
+C:\Users\andrey\Desktop\test_9_last_kar\test_8\test\test\obj\Debug\test.Form2.resources
+C:\Users\andrey\Desktop\test_9_last_kar\test_8\test\test\obj\Debug\test.Form3.resources
+C:\Users\andrey\Desktop\test_9_last_kar\test_8\test\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\andrey\Desktop\test_9_last_kar\test_8\test\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\andrey\Desktop\test_9_last_kar\test_8\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\andrey\Desktop\test_9_last_kar\test_8\test\test\obj\Debug\test.exe
+C:\Users\andrey\Desktop\test_9_last_kar\test_8\test\test\obj\Debug\test.pdb
+C:\Users\Богдан\Downloads\test_9_last_kar\test_9_last_kar\test_8\test\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\Богдан\Downloads\test_9_last_kar\test_9_last_kar\test_8\test\test\obj\Debug\test.Form1.resources
+C:\Users\Богдан\Downloads\test_9_last_kar\test_9_last_kar\test_8\test\test\obj\Debug\test.Form2.resources
+C:\Users\Богдан\Downloads\test_9_last_kar\test_9_last_kar\test_8\test\test\obj\Debug\test.Form3.resources
+C:\Users\Богдан\Downloads\test_9_last_kar\test_9_last_kar\test_8\test\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\Богдан\Downloads\test_9_last_kar\test_9_last_kar\test_8\test\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\Богдан\Downloads\test_9_last_kar\test_9_last_kar\test_8\test\test\obj\Debug\test.exe
+C:\Users\Богдан\Downloads\test_9_last_kar\test_9_last_kar\test_8\test\test\obj\Debug\test.pdb
+C:\Users\Богдан\Downloads\test_9_last_kar\test_9_last_kar\test_8\test\test\bin\Debug\test.exe.config
+C:\Users\Богдан\Downloads\test_9_last_kar\test_9_last_kar\test_8\test\test\bin\Debug\test.exe
+C:\Users\Богдан\Downloads\test_9_last_kar\test_9_last_kar\test_8\test\test\bin\Debug\test.pdb
+C:\Users\andrey\Desktop\Чат-бот\test\bin\Debug\test.exe.config
+C:\Users\andrey\Desktop\Чат-бот\test\bin\Debug\test.exe
+C:\Users\andrey\Desktop\Чат-бот\test\bin\Debug\test.pdb
+C:\Users\andrey\Desktop\Чат-бот\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\andrey\Desktop\Чат-бот\test\obj\Debug\test.Form1.resources
+C:\Users\andrey\Desktop\Чат-бот\test\obj\Debug\test.Form2.resources
+C:\Users\andrey\Desktop\Чат-бот\test\obj\Debug\test.Form3.resources
+C:\Users\andrey\Desktop\Чат-бот\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\andrey\Desktop\Чат-бот\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\andrey\Desktop\Чат-бот\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\andrey\Desktop\Чат-бот\test\obj\Debug\test.exe
+C:\Users\andrey\Desktop\Чат-бот\test\obj\Debug\test.pdb
