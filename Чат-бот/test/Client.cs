@@ -8,6 +8,12 @@ namespace test
 {
     public class Client : Human
     {
-        public string telephone;
+        private string telephone;
+        public string Telephone
+        {
+            get => telephone;
+            set => telephone = value;
+        }
+
     }
 }

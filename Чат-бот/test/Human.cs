@@ -8,6 +8,11 @@ namespace test
 {
     abstract public class Human
     {
-        public string fullName;
+        private string fullName;
+        public string FullName
+        {
+            get => fullName;
+            set => fullName = value;
+        }
     }
 }

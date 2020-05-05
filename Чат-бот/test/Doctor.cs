@@ -8,7 +8,18 @@ namespace test
 {
     public class Doctor : Human
     {
-        public string specialty;
-        public string cabinet;
+        private string specialty;
+        private string cabinet;
+        public string Specialty
+        {
+            get => specialty;
+            set => specialty = value;
+        }
+        public string Cabinet
+        {
+            get => cabinet;
+            set => cabinet = value;
+        }
+
     }
 }

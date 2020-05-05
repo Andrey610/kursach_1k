@@ -18,9 +18,9 @@ namespace test
     {
         public string bot;
         public static string ConnectionString1 = @"Provider=Microsoft.Jet.OLEDB.4.0; " +
-                                             "Data Source= Kursach.mdb";
+                                             "Data Source= 1.mdb";
         public static string ConnectionString2 = @"Provider=Microsoft.ACE.OLEDB.12.0; " +
-                                            "Data Source= Kursach.mdb";
+                                            "Data Source= 1.mdb";
 
         private OleDbConnection connection;
 
@@ -215,12 +215,12 @@ namespace test
                 }
                 else
                 {
-                    richTextBox1.Text = richTextBox1.Text + "\n" + bot + " вы вводите что то не то, введите номер раена 22";
+                    richTextBox1.Text = richTextBox1.Text + "\n" + bot + " Запис неможливий.";
                 }
             }
             catch (FormatException)
             {
-                richTextBox1.Text = richTextBox1.Text + "\n" + bot + " вы вводите что то не то, введите номер раена";
+                richTextBox1.Text = richTextBox1.Text + "\n" + bot + " Запис неможливий.";
                
             }
             // 
@@ -293,12 +293,12 @@ namespace test
                     }
                     else
                     {
-                        richTextBox1.Text = richTextBox1.Text + "\n" + bot + " вы вводите что то не то, введите номер больницы 22";
+                        richTextBox1.Text = richTextBox1.Text + "\n" + bot + " Запис неможливий.";
                     }
                 }
                 catch (FormatException)
                 {
-                    richTextBox1.Text = richTextBox1.Text + "\n" + bot + " вы вводите что то не то, введите номер больницы";
+                    richTextBox1.Text = richTextBox1.Text + "\n" + bot + " Запис неможливий.";
 
                 }
                 // 
@@ -347,12 +347,12 @@ namespace test
                 }
                 else
                 {
-                    richTextBox1.Text = richTextBox1.Text + "\n" + bot + " вы вводите что то не то, введите номер доктора 22";
+                    richTextBox1.Text = richTextBox1.Text + "\n" + bot + " Запис неможливий.";
                 }
             }
             catch (FormatException)
             {
-                richTextBox1.Text = richTextBox1.Text + "\n" + bot + " вы вводите что то не то, введите номер доктора";
+                richTextBox1.Text = richTextBox1.Text + "\n" + bot + " Запис неможливий.";
 
             }
 
@@ -390,12 +390,12 @@ namespace test
                 }
                 else
                 {
-                    richTextBox1.Text = richTextBox1.Text + "\n" + bot + " вы вводите что то не то, введите номер времени";
+                    richTextBox1.Text = richTextBox1.Text + "\n" + bot + " Запис неможливий.";
                 }
             }
             catch (FormatException)
             {
-                richTextBox1.Text = richTextBox1.Text + "\n" + bot + " вы вводите что то не то, введите номер времени";
+                richTextBox1.Text = richTextBox1.Text + "\n" + bot + " Запис неможливий.";
 
             }
             
@@ -464,11 +464,11 @@ namespace test
             
             while (reader2.Read())
             {
-                doctor.specialty = reader2[0].ToString();
-                doctor.fullName = reader2[1].ToString();
-                label3.Text = doctor.fullName;
-                doctor.cabinet = reader2[2].ToString();
-                label4.Text = doctor.cabinet;
+                doctor.Specialty = reader2[0].ToString();
+                doctor.FullName = reader2[1].ToString();
+                label3.Text = doctor.FullName;
+                doctor.Cabinet = reader2[2].ToString();
+                label4.Text = doctor.Cabinet;
             }
             reader2.Close();
 
@@ -620,11 +620,11 @@ namespace test
         private void button2_Click(object sender, EventArgs e)
         {
             Client client = new Client();
-            client.fullName = nameP+" "+surnameP;
-            client.telephone = numberP;
+            client.FullName = nameP+" "+surnameP;
+            client.Telephone = numberP;
 
             //client.GetInfo();               
-            DialogResult dialogResult = MessageBox.Show("Ваші данні введено вірно?" + "\n\n" + client.fullName +  "\n\n" + client.telephone, " Підтвердження", MessageBoxButtons.OKCancel);
+            DialogResult dialogResult = MessageBox.Show("Ваші данні введено вірно?" + "\n\n" + client.FullName +  "\n\n" + client.Telephone, " Підтвердження", MessageBoxButtons.OKCancel);
             if (dialogResult == DialogResult.OK)
             {              
                 Form3 Zz = new Form3();   
